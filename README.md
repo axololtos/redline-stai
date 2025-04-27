@@ -1,4 +1,4 @@
-# mboathoscope
+# redline stethoscope ai
 
 An Open Source Digital Stethoscope AI App
 
